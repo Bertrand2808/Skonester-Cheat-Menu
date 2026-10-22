@@ -1,0 +1,73 @@
+﻿l_french:
+ males_marry:0 "Marquer la dynastie/maison pour les mariages d’hommes"
+ males_marry_desc:0 "Les hommes éligibles seront mariés une fois par an jusqu’à atteindre le nombre maximal d’époux. Mariages arrangés de façon standard (patrilinéaire)."
+
+ females_marry:0 "Marquer la dynastie/maison pour les mariages de femmes"
+ females_marry_desc:0 "Les femmes éligibles seront mariées une fois par an jusqu’à atteindre le nombre maximal d’époux. Mariages arrangés de façon matrilinéaire afin de préserver leur lignée."
+
+ inbreed_marry:0 "Activer les mariages consanguins"
+ inbreed_marry_desc:0 "Les parents des dynasties ou maisons marquées seront mariés entre eux lorsque possible. Le système privilégie les demi-frères et sœurs, les cousins ou les unions oncle/tante-nièce/neveu, tout en respectant les règles religieuses, et vise une descendance de sang pur."
+
+ males_concubine:0 "Attribuer des concubines aux hommes"
+ males_concubine_desc:0 "Des concubines seront attribuées aux hommes éligibles des dynasties ou maisons marquées jusqu’à la limite autorisée par la foi et les lois."
+
+ females_concubine:0 "Attribuer des concubins aux femmes"
+ females_concubine_desc:0 "Des concubins seront attribués aux femmes éligibles des dynasties ou maisons marquées jusqu’au maximum autorisé, dans le respect des limites religieuses et culturelles."
+
+ dynasty_marry:0 "Marquer toute la dynastie"
+ dynasty_marry_desc:0 "Marque toute une dynastie afin que ses membres soient automatiquement mariés, pourvus de concubins ou soumis aux règles d’eugénisme, selon la configuration. Un modificateur de dynastie visible indique ce statut."
+
+ house_marry:0 "Marquer toute la maison"
+ house_marry_desc:0 "Marque une seule maison d’une dynastie pour les règles automatiques de mariage et de concubinage. Un modificateur de maison indiquera que la maison est marquée."
+
+ individual_marry_exempt:0 "Exempter un individu"
+ individual_marry_exempt_desc:0 "Marque un personnage afin qu’il soit ignoré par les arrangements automatiques de mariage ou de concubinage. Un modificateur l’identifie comme exempté."
+
+ males_marry_dynasty:0 "Hommes de la dynastie à marier"
+ males_marry_dynasty_desc:0 "Les hommes de cette dynastie sont automatiquement mariés par le système une fois par an."
+
+ females_marry_dynasty:0 "Femmes de la dynastie à marier"
+ females_marry_dynasty_desc:0 "Les femmes de cette dynastie sont automatiquement mariées de façon matrilinéaire une fois par an."
+
+ inbreed_marry_dynasty:0 "Dynastie unie par la parenté"
+ inbreed_marry_dynasty_desc:0 "Cette dynastie encourage les mariages consanguins entre ses membres, en privilégiant les unions entre frères et sœurs, cousins, ou oncles/tantes et nièces/neveux."
+
+ males_concubine_dynasty:0 "Hommes de la dynastie avec concubines"
+ males_concubine_dynasty_desc:0 "Les hommes de cette dynastie recevront automatiquement des concubines conformément à la foi et aux lois."
+
+ females_concubine_dynasty:0 "Femmes de la dynastie avec concubins"
+ females_concubine_dynasty_desc:0 "Les femmes de cette dynastie recevront automatiquement des concubins, dans la mesure où la foi et les coutumes le permettent."
+
+ males_marry_house:0 "Hommes de la maison à marier"
+ males_marry_house_desc:0 "Les hommes de cette maison sont automatiquement mariés une fois par an."
+
+ females_marry_house:0 "Femmes de la maison à marier"
+ females_marry_house_desc:0 "Les femmes de cette maison sont automatiquement mariées de façon matrilinéaire une fois par an."
+
+ inbreed_marry_house:0 "Maison pratiquant les mariages consanguins"
+ inbreed_marry_house_desc:0 "Cette maison arrange des mariages entre proches parents parmi ses membres, en favorisant les unions qui renforcent les lignées."
+
+ males_concubine_house:0 "Hommes de la maison avec concubines"
+ males_concubine_house_desc:0 "Les hommes de cette maison recevront automatiquement des concubines."
+
+ females_concubine_house:0 "Femmes de la maison avec concubins"
+ females_concubine_house_desc:0 "Les femmes de cette maison recevront automatiquement des concubins, dans la mesure où les coutumes le permettent."
+
+ males_eugenic:0 "Mariages eugéniques masculins"
+ males_eugenic_desc:0 "Les hommes éligibles des dynasties ou maisons marquées seront mariés selon des unions favorisant des lignées pures et fortes, avec une préférence pour les unions génétiquement souhaitables."
+
+ females_eugenic:0 "Mariages eugéniques féminins"
+ females_eugenic_desc:0 "Les femmes éligibles des dynasties ou maisons marquées seront mariées (de façon matrilinéaire si possible) afin de préserver ou de renforcer les lignées."
+
+ males_eugenic_dynasty:0 "Dynastie pratiquant l’eugénisme masculin"
+ males_eugenic_dynasty_desc:0 "Cette dynastie arrange les mariages de ses hommes dans le but de produire des descendants forts et de sang pur."
+
+ females_eugenic_dynasty:0 "Dynastie pratiquant l’eugénisme féminin"
+ females_eugenic_dynasty_desc:0 "Cette dynastie arrange les mariages de ses femmes dans le but de produire des descendants forts et de sang pur."
+
+ males_eugenic_house:0 "Maison pratiquant l’eugénisme masculin"
+ males_eugenic_house_desc:0 "Cette maison arrange les mariages de ses hommes en quête de pureté et de force de la lignée."
+
+ females_eugenic_house:0 "Maison pratiquant l’eugénisme féminin"
+ females_eugenic_house_desc:0 "Cette maison arrange les mariages de ses femmes en quête de pureté et de force de la lignée."
+

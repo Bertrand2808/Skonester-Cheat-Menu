@@ -1,0 +1,68 @@
+﻿l_french:
+
+ # --- Interactions ---
+ toc__interaction:1 "Action rapide"
+
+ # --- Decisions ---
+ toc_deceitful_progress_hostile_schemes_decision:0 "Faire progresser les complots hostiles"
+ toc_deceitful_progress_hostile_schemes_decision_confirm:0 "Mettez les complots en marche."
+ toc_deceitful_progress_hostile_schemes_decision_tooltip:0 "Fait avancer tous les complots hostiles en cours."
+
+ toc_diligent_development_focus_decision:0 "Se concentrer sur le développement"
+ toc_diligent_development_focus_decision_confirm:0 "Commencez les travaux."
+
+ toc_impatient_rushing_all_schemes_decision:0 "Précipiter tous les complots"
+ toc_impatient_rushing_all_schemes_decision_confirm:0 "Faites-les avancer maintenant."
+
+ tocwinwars_decision:0 "Résoudre toutes les guerres"
+ tocwinwars_decision_desc:0 "Vos guerres ont assez duré. Donnez l’ordre d’y mettre fin."
+ tocwinwars_decision_tooltip:0 "Toutes les guerres en cours seront résolues immédiatement."
+ tocwinwars_decision_confirm:0 "Qu’elles cessent."
+
+ toc_armyslaughter_decision:0 "Ravager la province"
+ toc_armyslaughter_decision_desc:0 "Cette province a causé assez de problèmes. Vous en ferez un exemple et garantirez l’absence de toute nouvelle résistance de sa population."
+ toc_armyslaughter_decision_tooltip:0 "Votre armée commandée doit être présente dans la province ciblée."
+ toc_armyslaughter_decision_confirm:0 "Donnez l’ordre."
+
+ toc_armybuilders_decision:0 "Agrandir la propriété"
+ toc_armybuilders_decision_desc:0 "Cette propriété a un potentiel inexploité. Mettez vos forces au travail et faites-en quelque chose."
+ toc_armybuilders_decision_tooltip:0 "Votre armée commandée doit être présente à la propriété ciblée."
+ toc_armybuilders_decision_confirm:0 "Donnez l’ordre."
+
+ toc_build_decision:0 "Développer la province"
+ toc_build_decision_desc:0 "Cette province a de la marge pour croître. Avec le bon investissement, elle pourrait devenir un centre prospère de votre royaume."
+ toc_build_decision_tooltip:0 "Votre armée commandée doit être présente à la propriété ciblée."
+ toc_build_decision_confirm:0 "Commencez la construction."
+
+ # --- Messages ---
+ msg_armyslaughter_decision:0 "La province a été ravagée."
+ msg_armybuilders_decision:0 "La propriété a été agrandie."
+
+ # --- Modifiers ---
+ toc_diplomaticrange_modifier:1 "Portée diplomatique étendue"
+ toc_diplomaticrange_modifier_desc:1 "L’influence de ce dirigeant s’étend bien au-delà de ses frontières."
+
+ toc_exoticcourtbonus:1 "Cour exotique"
+ toc_exoticcourtbonus_desc:1 "Cette cour attire des visiteurs de contrées lointaines, ce qui lui confère une aura de prestige et d’intrigue."
+
+ toc_fertile_modifier:1 "Fécondité bénie"
+ toc_fertile_modifier_desc:1 "Ce personnage est exceptionnellement fécond et susceptible d’avoir de nombreux héritiers."
+
+ toc_dreadful_modifier:1 "Réputation redoutable"
+ toc_dreadful_modifier_desc:1 "Le nom de ce dirigeant inspire la crainte dans tout le royaume."
+
+ toc_notyranny_modifier:1 "Règne juste"
+ toc_notyranny_modifier_desc:1 "Ce dirigeant gouverne sans recourir à la tyrannie."
+
+ toc_superknights_modifier:1 "Chevaliers d’élite"
+ toc_superknights_modifier_desc:1 "Ce dirigeant commande des chevaliers d’une compétence et d’une renommée exceptionnelles."
+ 
+ toc_uncelibate_interaction:1 "Non célibataire"
+
+
+ # --- Commented / Unused ---
+ #toc_major_purge_war:0 "Purge War"
+ #trait_pure_blooded_desc:0 "This character is of a pure bloodline."
+ #trait_gigasuperseed:0 "Pure-blooded"
+ #trait_gigasuperseed_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is of a pure bloodline."
+

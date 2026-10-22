@@ -1,0 +1,249 @@
+﻿l_french:
+
+# Tomb of Ancestors
+building_type_db_tomb_ancestors_01:0 "Tombeau des ancêtres"
+building_type_db_tomb_ancestors_01_desc:0 "#F Construire un tombeau des ancêtres peut unir les tribus et renforcer l’autorité des chefs tribaux.#!"
+building_db_tomb_ancestors_01:0 "Tombeau des ancêtres"
+building_db_tomb_ancestors_01_desc:0 "$building_type_db_tomb_ancestors_01_desc$"
+building_db_tomb_ancestors_02:0 "Tombeau des ancêtres légendaires"
+building_db_tomb_ancestors_02_desc:0 "Construire un tombeau des ancêtres légendaires serait un bon moyen d’unir la tribu et d’accroître sa réputation."
+
+# Hall of Pillager
+building_type_db_hall_pillage_01:0 "Hall des pillards"
+building_type_db_hall_pillage_01_desc:0 "#F C’est le lieu où les pillards de notre tribu se préparent au pillage. Ils y partagent le butin, remettent leurs armes en ordre et préparent la prochaine razzia.#!"
+building_db_hall_pillage_01:0 "Hall des pillards"
+building_db_hall_pillage_01_desc:0 "$building_type_db_hall_pillage_01_desc$"
+building_db_hall_pillage_02:0 "Hall des pillards"
+building_db_hall_pillage_02_desc:0 "$building_type_db_hall_pillage_01_desc$"
+
+# Hall of Pillager(for Steppe)
+building_type_db_steppe_pillage_01:0 "Hall des pillards"
+building_type_db_steppe_pillage_01_desc:0 "#F C’est le lieu où les pillards de notre tribu se préparent au pillage. Ils y partagent le butin, remettent leurs armes en ordre et préparent la prochaine razzia.#!"
+building_db_steppe_pillage_01:0 "Hall des pillards"
+building_db_steppe_pillage_01_desc:0 "$building_type_db_hall_pillage_01_desc$"
+building_db_steppe_pillage_02:0 "Hall des pillards"
+building_db_steppe_pillage_02_desc:0 "$building_type_db_hall_pillage_01_desc$"
+
+# Gigantic Idol
+building_type_db_gigantic_idol_01:0 "Idole gigantesque"
+building_type_db_gigantic_idol_01_desc:0 "#F Une idole gigantesque vénérée par la tribu. Elle s’élève vers le ciel comme un arbre, entourée de nombreuses offrandes qui lui sont consacrées.#!"
+building_db_gigantic_idol_01:0 "Idole gigantesque"
+building_db_gigantic_idol_01_desc:0 "$building_type_db_gigantic_idol_01_desc$"
+building_db_gigantic_idol_02:0 "Idole gigantesque"
+building_db_gigantic_idol_02_desc:0 "$building_type_db_gigantic_idol_01_desc$"
+
+# Tribal Assembly
+building_type_db_tribal_assembly_01:0 "Assemblée tribale"
+building_type_db_tribal_assembly_01_desc:0 "#F C’est une assemblée chargée de trancher les affaires importantes de la tribu. On y débat de la prochaine guerre, de la foi, etc.#!"
+building_db_tribal_assembly_01:0 "Assemblée tribale"
+building_db_tribal_assembly_01_desc:0 "C’est une assemblée chargée de trancher les affaires importantes de la tribu. On y débat de la prochaine guerre, de la foi, etc."
+building_db_tribal_assembly_02:0 "Assemblée tribale élargie"
+building_db_tribal_assembly_02_desc:0 "Chaque fois que la tribu doit prendre une décision importante, tenir une assemblée est épuisant. Avec un groupe de conseillers composé de guerriers aguerris et d’un chaman aux côtés du chef, celui-ci pourra régler à temps les problèmes imminents."
+
+# Shura Council
+building_type_db_shura_council_01:0 "Conseil de la choura"
+building_type_db_shura_council_01_desc:0 "#F Choura est un mot arabe signifiant « consultation ». Les premières communautés islamiques l’employaient pour encourager la concertation avant toute décision importante.#!"
+building_db_shura_council_01:0 "Conseil de la choura temporaire"
+building_db_shura_council_01_desc:0 "Le conseil de la choura a été établi. Bien que temporaire, il permettra au sultan de solliciter des avis politiques en cas de besoin."
+building_db_shura_council_02:0 "Conseil de la choura permanent"
+building_db_shura_council_02_desc:0 "Grâce à la réorganisation du conseil de la choura, le sultan peut désormais toujours obtenir des avis adaptés."
+building_db_shura_council_03:0 "Conseil de la choura élargi"
+building_db_shura_council_03_desc:0 "Grâce à l’élargissement du conseil de la choura, le sultan peut obtenir des avis spécialisés dans davantage de domaines."
+
+# Royal Mosque
+building_type_db_royal_mosque_01:0 "Mosquée royale"
+building_type_db_royal_mosque_01_desc:0 "#F Une mosquée où la famille royale se rend pour prier.#!"
+building_db_royal_mosque_01:0 "Mosquée royale"
+building_db_royal_mosque_01_desc:0 "$building_type_db_royal_mosque_01_desc$"
+building_db_royal_mosque_02:0 "Madrasa royale"
+building_db_royal_mosque_02_desc:0 "Une madrasa a été construite au sein de la mosquée royale pour enseigner diverses disciplines, dont la théologie."
+building_db_royal_mosque_03:0 "Crypte royale"
+building_db_royal_mosque_03_desc:0 "Une crypte a été construite sous la mosquée royale, permettant aux membres de la famille royale de reposer en paix."
+
+# Royal Chapel
+building_type_db_royal_chapel_01:0 "Chapelle royale"
+building_type_db_royal_chapel_01_desc:0 "#F Une chapelle où la famille royale se rend pour prier.#!"
+building_db_royal_chapel_01:0 "Chapelle royale"
+building_db_royal_chapel_01_desc:0 "$building_type_db_royal_chapel_01_desc$"
+building_db_royal_chapel_02:0 "Chapelle royale agrandie"
+building_db_royal_chapel_02_desc:0 "L’agrandissement de la chapelle royale a permis d’étendre divers lieux d’enseignement, afin que les étudiants puissent étudier notamment la théologie."
+building_db_royal_chapel_03:0 "Crypte royale"
+building_db_royal_chapel_03_desc:0 "Une crypte a été construite sous la chapelle royale, permettant aux membres de la famille royale de reposer en paix."
+
+# Insular Monastery
+building_type_db_insular_monas_01:0 "Monastère insulaire"
+building_type_db_insular_monas_01_desc:0 "#F Dans l’Église occidentale typique, l’unité de base de l’organisation ecclésiastique est le diocèse, mais ce n’était pas le cas en Irlande. Là-bas, les églises s’organisaient autour de monastères fondés par les chefs de chaque tribu et dirigés par leurs descendants. Ces monastères n’étaient pas de grands édifices de pierre comme les monastères médiévaux ordinaires, mais un ensemble de maisons au toit de chaume entourant une petite église.#!"
+building_db_insular_monas_01:0 "Monastère insulaire"
+building_db_insular_monas_01_desc:0 "$building_type_db_insular_monas_01_desc$"
+building_db_insular_monas_02:0 "Monastère insulaire agrandi"
+building_db_insular_monas_02_desc:0 "Le monastère a été agrandi grâce à l’investissement du chef tribal local. Plus de moines que jamais y mèneront une vie extrêmement pieuse et s’efforceront d’apprendre avec passion."
+
+# local Parliament
+building_type_db_local_parliament_01:0 "Parlement local"
+building_type_db_local_parliament_01_desc:0 "#F Le parlement local est un lieu où les monarques sollicitent des conseils de gouvernance ou obtiennent le consentement du peuple.#!"
+building_db_local_parliament_01:0 "Parlement local temporaire"
+building_db_local_parliament_01_desc:0 "Un parlement local a été établi. Bien que temporaire, il permettra au monarque de se concerter sur la politique en cas de besoin."
+building_db_local_parliament_02:0 "Parlement local permanent"
+building_db_local_parliament_02_desc:0 "Grâce à la réorganisation du parlement local, le monarque peut désormais toujours obtenir des avis adaptés"
+building_db_local_parliament_03:0 "Parlement local élargi"
+building_db_local_parliament_03_desc:0 "Grâce à l’élargissement du parlement local, le monarque peut obtenir des avis spécialisés dans davantage de domaines"
+
+# Library
+building_type_db_local_library_01:0 "Bibliothèque"
+building_type_db_local_library_01_desc:0 "#F C’est un lieu où sont conservés de nombreux types de livres.#!"
+building_db_local_library_01:0 "Petite bibliothèque"
+building_db_local_library_01_desc:0 "C’est une petite bibliothèque. Les livres y sont peu nombreux, mais ceux qui souhaitent s’instruire par la lecture y viennent."
+building_db_local_library_02:0 "Célèbre bibliothèque locale"
+building_db_local_library_02_desc:0 "Grâce à l’investissement des dirigeants locaux, nous avons pu enrichir la collection et engager des scribes pour copier des ouvrages."
+building_db_local_library_03:0 "Grande bibliothèque"
+building_db_local_library_03_desc:0 "C’est une bibliothèque riche en livres. De nombreuses personnes viennent de loin pour s’y instruire."
+
+# Artificial Forest
+building_type_db_artificial_forest_01:0 "Forêt artificielle"
+building_type_db_artificial_forest_01_desc:0 "#F Faute de forêts dans notre pays, nous achetons des arbres aux pays voisins. Créer des forêts artificielles réduira ce gaspillage et assurera un approvisionnement stable en matières premières pour la construction, la construction navale et le tir à l’arc.#!"
+building_db_artificial_forest_01:0 "Petite forêt artificielle"
+building_db_artificial_forest_01_desc:0 "Nous avons planté des arbres pour créer de petites forêts artificielles."
+building_db_artificial_forest_02:0 "Nomination d’un garde forestier"
+building_db_artificial_forest_02_desc:0 "Nous nommons un garde forestier pour gérer les forêts créées artificiellement."
+building_db_artificial_forest_03:0 "Grande forêt artificielle"
+building_db_artificial_forest_03_desc:0 "Notre projet de forêt artificielle a réussi. Nous pouvons désormais nous entraîner en forêt et obtenir aisément des matières premières pour la construction, la construction navale, la fabrication d’arcs, etc."
+
+# Caravan Sarai
+building_type_db_caravan_sarai_01:0 "Caravansérail"
+building_type_db_caravan_sarai_01_desc:0 "#F Un caravansérail était une auberge en bord de route où les voyageurs pouvaient se reposer des fatigues de la journée. Les caravansérails soutenaient la circulation des marchandises, des informations et des personnes sur le réseau de routes commerciales couvrant l’Asie, l’Afrique du Nord et le sud-est de l’Europe, notamment la route de la soie.#!"
+building_db_caravan_sarai_01:0 "Caravansérail"
+building_db_caravan_sarai_01_desc:0 "$building_type_db_caravan_sarai_01_desc$"
+building_db_caravan_sarai_02:0 "Caravansérail"
+building_db_caravan_sarai_02_desc:0 "$building_type_db_caravan_sarai_01_desc$"
+building_db_caravan_sarai_03:0 "Caravansérail"
+building_db_caravan_sarai_03_desc:0 "$building_type_db_caravan_sarai_01_desc$"
+
+# Prison Tower
+building_type_db_prison_cell_01:0 "Tour-prison"
+building_type_db_prison_cell_01_desc:0 "#F C’est un lieu où l’on traite « convenablement » les prisonniers.#!"
+building_db_prison_cell_01:0 "Prison agrandie"
+building_db_prison_cell_01_desc:0 "Agrandir les prisons rendra la vie des détenus encore plus pénible."
+building_db_prison_cell_02:0 "Lieu d’exécution"
+building_db_prison_cell_02_desc:0 "Ne vaudrait-il pas mieux en finir d’un coup plutôt que de subir une vie de souffrance?"
+building_db_prison_cell_03:0 "Tour-prison renforcée"
+building_db_prison_cell_03_desc:0 "Renforcer la tour-prison empêchera la sécurité de se dégrader en cas d’intrusion ennemie."
+
+# Court of Justice
+building_type_db_court_justice_01:0 "Tribunal"
+building_type_db_court_justice_01_desc:0 "#F C’est un lieu où l’on juge de l’existence d’un péché selon la loi et où l’on condamne le pécheur.#!"
+building_db_court_justice_01:0 "Cour de centaine"
+building_db_court_justice_01_desc:0 "Dans certaines centaines, les tribunaux siégeaient en un lieu fixe; dans d’autres, ils changeaient d’endroit à chaque séance. La principale mission de la cour de centaine était le maintien du système de la caution mutuelle (frankpledge). Elle était composée de douze propriétaires libres, ou hommes libres"
+building_db_court_justice_02:0 "Cour de comté"
+building_db_court_justice_02_desc:0 "La cour de comté était une institution judiciaire chargée de maintenir l’ordre et la loi à l’échelon local et d’assurer diverses fonctions administratives, dont la collecte des impôts pour le pouvoir central."
+building_db_court_justice_03:0 "Cour du banc du roi"
+building_db_court_justice_03_desc:0 "La cour du banc du roi était un tribunal de common law. Créée à la fin du XIIe ou au début du XIIIe siècle à partir de la curia regis, elle suivait au départ le monarque dans ses déplacements. Elle a fini par rejoindre la Cour des plaids communs et l’Échiquier des plaids à Westminster Hall en 1318, effectuant ses derniers déplacements en 1421. "
+
+# Statue of Horse
+building_type_db_statue_horse_01:0 "Statue de cheval"
+building_type_db_statue_horse_01_desc:0 "#F C’est une statue érigée en l’honneur d’un cheval légendaire nommé « Sabot-d’éclat ».#!"
+building_db_statue_horse_01:0 "Statue de cheval"
+building_db_statue_horse_01_desc:0 "$building_type_db_statue_horse_01_desc$"
+building_db_statue_horse_02:0 "Dorure"
+building_db_statue_horse_02_desc:0 "Dorer la statue de « Sabot-d’éclat » serait un bon moyen de lui rendre un peu plus hommage."
+building_db_statue_horse_03:0 "Statues d’animaux supplémentaires"
+building_db_statue_horse_03_desc:0 "Ajouter une petite statue d’animal à côté de celle de « Sabot-d’éclat » donnera à l’ensemble une forme plus parfaite."
+
+# Kurultai
+building_type_db_kurultai_01:0 "Kouroultaï"
+building_type_db_kurultai_01_desc:0 "#F Le kouroultaï était un conseil politique et militaire des anciens chefs et khans mongols et turciques. Tous les grands khans de l’Empire mongol, comme Gengis Khan et Ögedei Khan, furent formellement élus lors d’un kouroultaï; les khans des États mongols subordonnés, comme la Horde d’or, l’étaient par un kouroultaï régional similaire.#!"
+building_db_kurultai_01:0 "Kouroultaï"
+building_db_kurultai_01_desc:0 "Un kouroultaï a été tenu. Bien que temporaire, il permettra au khan de se concerter sur la politique en cas de besoin."
+building_db_kurultai_02:0 "Kouroultaï permanent"
+building_db_kurultai_02_desc:0 "Grâce à la réorganisation du kouroultaï, le khan peut désormais toujours obtenir des avis adaptés."
+building_db_kurultai_03:0 "Kouroultaï élargi"
+building_db_kurultai_03_desc:0 "Grâce à l’élargissement du kouroultaï, le khan peut obtenir des avis spécialisés dans davantage de domaines."
+
+# Lighthouse
+building_type_db_lighthouse_01:0 "Phare"
+building_type_db_lighthouse_01_desc:0 "#F C’est une haute tour qui garantit la sécurité des navires naviguant de nuit.#!"
+building_db_lighthouse_01:0 "Phare"
+building_db_lighthouse_01_desc:0 "$building_type_db_lighthouse_01_desc$"
+building_db_lighthouse_02:0 "Bannières géantes"
+building_db_lighthouse_02_desc:0 "Si nous installons une bannière géante sur le phare, les marins pourront reconnaître notre phare même en haute mer."
+building_db_lighthouse_03:0 "Grand phare"
+building_db_lighthouse_03_desc:0 "Notre phare est bien connu des marins qui sillonnent les mers voisines. Depuis son installation, de nombreux navires rejoignent notre port en toute sécurité."
+
+# Mercenary Camp
+building_type_db_mercenary_camp_01:0 "Camp de mercenaires"
+building_type_db_mercenary_camp_01_desc:0 "#F C’est un lieu où se rassemblent, pour de l’argent, des gens prêts à sacrifier leur vie.#!"
+building_db_mercenary_camp_01:0 "Camp de mercenaires"
+building_db_mercenary_camp_01_desc:0 "$building_type_db_mercenary_camp_01_desc$"
+building_db_mercenary_camp_02:0 "Camp de mercenaires agrandi"
+building_db_mercenary_camp_02_desc:0 "Davantage de mercenaires, flairant le sang à venir dans le pays, se sont rassemblés au camp. Ils sont plus nombreux à se disputer un engagement et à acheter dans les boutiques locales de quoi préparer la prochaine bataille. Bien sûr, les bagarres entre mercenaires ivres et habitants se sont multipliées."
+
+# Thing
+building_type_db_things_01:0 "Thing"
+building_type_db_things_01_desc:0 "#F Un thing est une assemblée dirigeante de la société germanique ancienne, composée des hommes libres de la communauté et présidée par des diseurs de loi.\n\nDans la culture clanique préchrétienne de la Scandinavie, les membres d’un clan étaient tenus de venger les torts subis par leurs parents morts ou mutilés. La querelle est ainsi souvent considérée comme le mode de résolution des conflits le plus courant dans la société viking. Cependant, les things sont plus largement des structures d’équilibre visant à réduire les querelles tribales et à éviter le désordre social dans les cultures germaniques du Nord. Ils jouaient un rôle important dans la société viking, en tant que forums de résolution des conflits, d’alliances matrimoniales, d’étalage du pouvoir, d’honneur et de règlement des héritages.#!"
+building_db_things_01:0 "Thing"
+building_db_things_01_desc:0 "$building_type_db_things_01_desc$"
+building_db_things_02:0 "Thing permanent"
+building_db_things_02_desc:0 "Grâce à la réorganisation du thing, le seigneur peut désormais toujours obtenir des avis adaptés."
+building_db_things_03:0 "Thing élargi"
+building_db_things_03_desc:0 "Grâce à l’élargissement du thing, le seigneur peut obtenir des avis spécialisés dans davantage de domaines."
+
+# Fair
+building_type_db_fair_01:0 "Foire"
+building_type_db_fair_01_desc:0 "#F Une foire est un rassemblement de gens autour de divers divertissements ou activités commerciales. Elle est par nature temporaire, avec des dates fixées pouvant aller d’un après-midi à plusieurs semaines.\n\nAu Moyen Âge, de nombreuses foires se sont développées comme des marchés temporaires et ont été particulièrement importantes pour le commerce à longue distance et international: les grossistes voyageaient parfois plusieurs jours jusqu’aux foires où ils étaient sûrs de rencontrer ceux à qui ils devaient acheter ou vendre.#!"
+building_db_fair_01:0 "Petite foire"
+building_db_fair_01_desc:0 "$building_type_db_fair_01_desc$"
+building_db_fair_02:0 "Foire"
+building_db_fair_02_desc:0 "$building_type_db_fair_01_desc$"
+building_db_fair_03:0 "Foire régionale"
+building_db_fair_03_desc:0 "De plus en plus de gens affluent depuis que la foire se tient dans le pays."
+building_db_fair_04:0 "Grande foire"
+building_db_fair_04_desc:0 "De plus en plus de gens affluent depuis que la foire se tient dans le pays. On y trouve toutes sortes de choses à voir et à manger, et divers produits du pays y sont vendus."
+
+# Royal Synagogue
+building_type_db_royal_cynagogue_01:0 "Synagogue royale"
+building_type_db_royal_cynagogue_01_desc:0 "#F Une synagogue où la famille royale se rend pour prier.#!"
+building_db_royal_cynagogue_01:0 "Synagogue royale"
+building_db_royal_cynagogue_01_desc:0 "$building_type_db_royal_cynagogue_01_desc$"
+building_db_royal_cynagogue_02:0 "Synagogue royale agrandie"
+building_db_royal_cynagogue_02_desc:0 "Grâce à l’agrandissement de la synagogue, un plus grand nombre de fidèles peuvent s’y rendre."
+building_db_royal_cynagogue_03:0 "Arche sainte de la Torah"
+building_db_royal_cynagogue_03_desc:0 "L’arche sainte est une armoire dans laquelle sont conservés les rouleaux de la Torah. Dans une synagogue, elle est presque toujours placée de sorte que ceux qui lui font face soient tournés vers Jérusalem."
+
+# Royal Mandir
+building_type_db_royal_hindu_01:0 "Mandir royal"
+building_type_db_royal_hindu_01_desc:0 "#F Un temple hindou où la famille royale se rend pour prier.#!"
+building_db_royal_hindu_01:0 "Mandir royal"
+building_db_royal_hindu_01_desc:0 "$building_type_db_royal_cynagogue_01_desc$"
+building_db_royal_hindu_02:0 "Calai"
+building_db_royal_hindu_02_desc:0 "Installer un calai, où les étudiants peuvent apprendre les écritures védiques au sein du mandir. Au calai, érudits et étudiants réciteront et étudieront le sanskrit et les écritures védiques."
+building_db_royal_hindu_03:0 "Hôpital"
+building_db_royal_hindu_03_desc:0 "Un hôpital est aménagé au sein du mandir pour soigner les malades et les pauvres."
+
+# Statue of Hero
+building_type_db_statue_ruler_01:0 "Statue de héros"
+building_type_db_statue_ruler_01_desc:0 "#F C’est une statue érigée en l’honneur d’un héros légendaire.#!"
+building_db_statue_ruler_01:0 "Statue de héros"
+building_db_statue_ruler_01_desc:0 "$building_type_db_statue_ruler_01_desc$"
+building_db_statue_ruler_02:0 "Dorure"
+building_db_statue_ruler_02_desc:0 "Dorer la statue serait un bon moyen de lui rendre un peu plus hommage."
+building_db_statue_ruler_03:0 "Statues supplémentaires"
+building_db_statue_ruler_03_desc:0 "Ajouter une petite statue à côté de la statue donnera à l’ensemble une forme plus parfaite."
+
+# Royal Menagerie
+building_type_db_menagerie_01:0 "Ménagerie royale"
+building_type_db_menagerie_01_desc:0 "#F Une ménagerie est une collection d’animaux captifs, souvent exotiques, exposés au public. Elle était généralement rattachée à une cour aristocratique ou royale et située dans le jardin ou le parc d’un palais. Ces aristocrates voulaient afficher leur puissance et leur richesse, car les animaux exotiques, vivants et actifs, étaient plus rares, plus difficiles à obtenir et plus coûteux à entretenir.#!"
+building_db_menagerie_01:0 "Ménagerie royale"
+building_db_menagerie_01_desc:0 "$building_type_db_menagerie_01_desc$"
+building_db_menagerie_02:0 "Ménagerie royale agrandie"
+building_db_menagerie_02_desc:0 "Grâce à l’agrandissement de la ménagerie, elle peut désormais abriter plus d’animaux qu’auparavant. Davantage d’aristocrates envieront notre richesse et notre puissance. Cependant, les prêtres locaux ont commencé à dénoncer ouvertement notre luxe dans leurs sermons."
+building_db_menagerie_03:0 "Ménagerie exotique"
+building_db_menagerie_03_desc:0 "Nos efforts pour continuer à rapporter des animaux exotiques de contrées lointaines semblent enfin porter leurs fruits. Nous entretenons désormais une grande variété d’animaux exotiques: éléphants, chameaux, lions, léopards et cerfs blancs."
+
+# Rabbi Council
+building_type_db_rabbi_council_01:0 "Conseil des rabbins"
+building_type_db_rabbi_council_01_desc:0 "#F Après l’expulsion des Juifs de Jérusalem, les rabbins ont guidé la vie juive pour qu’elle demeure conforme à la Torah. Inviter des rabbins éminents et écouter leurs conseils aidera notre Cour à aller dans la bonne direction, conformément à la Torah.#!"
+building_db_rabbi_council_01:0 "Conseil des rabbins"
+building_db_rabbi_council_01_desc:0 "$building_type_db_rabbi_council_01_desc$"
+building_db_rabbi_council_02:0 "Conseil des rabbins permanent"
+building_db_rabbi_council_02_desc:0 "Grâce à la réorganisation du conseil, le seigneur peut désormais toujours obtenir des avis adaptés."
+building_db_rabbi_council_03:0 "Conseil des rabbins élargi"
+building_db_rabbi_council_03_desc:0 "Grâce à l’élargissement du conseil, le seigneur peut obtenir des avis spécialisés dans davantage de domaines."

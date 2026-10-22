@@ -1,0 +1,5 @@
+﻿l_french:
+ # CK3 1.20: these were raw-text custom_tooltip strings in common/decisions/pcm_decisions.txt
+ pcm_artifact_cheat_tt:0 "Vous recevez des artefacts de cour et personnels pour renforcer votre royaume."
+ pcm_culture_cheat_tt:0 "Votre culture adopte un grand ensemble de traditions. Les traditions en conflit sont retirées en premier."
+

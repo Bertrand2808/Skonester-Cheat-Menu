@@ -1,0 +1,37 @@
+﻿l_french:
+ cheat_decition_tradition:0 "Établir la suprématie culturelle"
+ cheat_description_tradition:0 "Par décret, nous adopterons la sagesse de chaque coin de la terre. Des rizières de l’Orient aux archers de l’Occident, notre peuple n’aura pas son égal."
+ culture_cheat_tooltip:0 "Plus de 100 traditions seront établies."
+ 
+ # Modifiers
+ culture_acceptance_gain_mult:0 "Ouverture culturelle"
+ 
+ # Decision Menu
+ yyz_open_menu_decision:0 "Menu du chercheur de talents"
+ yyz_open_menu_decision_desc:0 "Nos plans actuels exigent une expertise spécialisée. En formalisant notre quête de talents, nous veillerons à ce que notre cour reste une destination pour l’élite et nous procure les compétences nécessaires au succès."
+ yyz_open_menu_decision_confirm:0 "Ouvrir le menu"
+ yyz_open_menu_decision_tooltip:0 "Initialise la liste."
+ 
+ # Traditions
+ tradition_zz_cultural_polygamy_three_wives_name:0 "Polygamie culturelle"
+ tradition_zz_cultural_polygamy_three_wives_desc:0 "Dans cette culture, il est de tradition que les dirigeants du plus haut rang entretiennent une maisonnée de multiples conjoints et concubines afin d’assurer une lignée vaste et stable."
+ 
+ 
+ 
+ skonester_change_age_interaction:0 "Changer l’âge du personnage"
+    flag_age_6:0 "6 ans"
+    flag_age_16:0 "16 ans"
+    flag_age_25:0 "25 ans"
+    flag_age_42:0 "42 ans"
+    flag_age_64:0 "64 ans"
+  
+ siege_weapon_max_size_mult:0 "Taille maximale des armes de siège"
+  
+ 
+
+ change_govt_steppe_admin:0 "Devenir un khagan méritocratique"
+ change_govt_steppe_admin_desc:0 "Abandonnez les anciennes coutumes et embrassez les traditions méritocratiques de la steppe, en régnant par le mérite et le trésor plutôt que par la naissance et la levée."
+ change_govt_steppe_admin_tt:0 "Transformez votre royaume en khanat méritocratique."
+
+ 
+

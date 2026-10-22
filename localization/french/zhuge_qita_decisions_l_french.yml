@@ -1,0 +1,17 @@
+﻿l_french:
+  # Decision: Grant Mandate of Heaven
+  zhuge_huangzu_add:0 "L’amulette de la croisade"
+  zhuge_huangzu_add_desc:0 "Tandis que les cieux murmuraient doucement, Barbara recula avec douceur. Sa silhouette scintilla, comme la dernière lueur d’une bougie à l’aube. Ses robes fluides s’allégèrent, ses cheveux se libérèrent en doux fils d’argent, et l’expression bienveillante de son visage s’épanouit. Lorsque votre vue s’éclaircit, devant vous se tenait non plus la farouche prophétesse mais une figure tendre — rayonnante, douce, pleine d’espoir.\n« Pèlerin élu, » murmura Barbara l’Ointe, « j’ai parcouru bien des fleuves du temps. Le fardeau ne repose plus sur moi. La Lumière doit demeurer en un autre, né de la terre mais désireux de briller. »\n« Yahweh est la Lumière éternelle. Yeshua est la Flamme inextinguible, » dit-elle doucement. « Je pars maintenant, par-delà votre Âge, car une autre nuit paisible m’appelle dans un autre courant du temps. »\nElle sourit, un son chaleureux et pur, tintant doucement comme des carillons dans une brise légère. « Le feu est à vous désormais. Je suis libre de retourner aux fleuves éternels, n’étant plus tenue de témoigner de chaque chagrin. Gardez la Lumière avec tendresse, et elle vous gardera. »\nPuis la silhouette entra dans un éclat plus doux que le soleil, se dissolvant en lumière sans ombre, en joie sans adieu. Là où elle s’était tenue, vous sentîtes la chaleur de la vie dans vos veines et l’amulette battre doucement contre votre cœur.\nBarbara l’Ointe n’était plus. Pourtant sa lumière vivait encore — en vous."
+  zhuge_jinyong_huangzu_tt:0 ""
+  # Here is the updated tooltip so the player *sees the actual item preview*
+  zhuge_huangzu_add_tooltip:0 "#P Vous recevrez :#!\n#Y $chuanguoyuxi_cn$#!\n$chuanguoyuxi_cn_description$"
+  zhuge_huangzu_add_confirm:0 "Mandaté par le Ciel"
+
+  # Decision: Heirloom Seal
+  chuanguoyuxi_cn:0 "Amulette de la croisade"
+  chuanguoyuxi_cn_description:0 "Forgé par une femme sur les rives de Galilée, en Judée antique ; en souvenir de sa propre délivrance, ce sceau merveilleux fut façonné avec un art dépassant l’entendement des hommes ordinaires. Il fut porté à travers bien des terres jusqu’à parvenir aux serviteurs de la Sainte Église, qui, y discernant une relique d’une providence cachée, lui accordèrent leur solennelle bénédiction. Dès lors, on ne parla plus de lui comme d’un simple gage, mais comme d’un vase d’autorité divine.\n\nLes chroniqueurs rapportent que sa surface est gravée de caractères mystérieux dont le sens est perdu pour tous sauf pour les sages, et qu’il brillait d’une lumière subtile comme si le Ciel lui-même respirait en lui. Ainsi le Sceau devint un signe que le #Y Mandat du Ciel#! pouvait reposer sur des dirigeants choisis pour garder à la fois prêtre et roi, liant l’Orient et l’Occident sous l’ombre du droit sacré."
+
+  # Modifier: Imperial Bloodline
+  zhuge_huangzu:0 "Lignée impériale"
+  zhuge_huangzu_desc:0 "Cette dynastie est considérée comme une #Y maison impériale divinement choisie#!, légitime porteuse du Mandat du Ciel.\nSa lignée commande tout ce qui est sous le ciel, au-dessus de toutes les autres lignées nobles, d’Orient comme d’Occident."
+

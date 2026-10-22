@@ -1,0 +1,73 @@
+﻿l_french:
+
+ skonester_cheat_menu_activity_cheat_menu_interaction: "Activités / Mode de vie"
+
+ skonester_cheat_menu_activity_cheat_menu_interaction_desc: "Forcez l’organisation de banquets, de chasses et de tournois ; ignorez les coûts des banquets ; passez ou terminez instantanément les phases d’activité."
+
+ skonester_cheat_menu.3091.t: "Triches d’activités"
+
+ skonester_cheat_menu.3091.desc: "Contrôlez les activités de mode de vie de [skonester_cheat_menu_target.GetShortUIName] (banquets, chasses, tournois, etc.). L’organisation injecte d’abord de l’or et du Prestige ; les conditions du jeu de base (rang, culture, DLC) peuvent toujours bloquer certains types."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ skonester_cheat_menu.3092.t: "Organiser des activités de divertissement"
+
+ skonester_cheat_menu.3092.desc: "Organisez en tant que [skonester_cheat_menu_target.GetShortUIName] via ai_attempt_to_host_activity, avec les ressources injectées au préalable. Si le planificateur ne s’ouvre pas, vérifiez les notifications ou la liste des activités ; essayez d’activer ou de désactiver l’ignorance des coûts de banquet."
+
+
+
+
+
+
+
+
+
+
+
+ skonester_cheat_menu.3097.t: "Organiser d’autres activités"
+
+ skonester_cheat_menu.3097.desc: "Tournées, mariages, pèlerinages et autres activités spéciales ; des restrictions plus strictes du jeu de base peuvent toujours s’appliquer."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ skonester_activity_cheat_toast_toggle_title: "Triche d’activité · Coût du banquet"
+
+ skonester_activity_cheat_toast_toggle_desc: "feast_ai_override a été basculé sur le personnage verrouillé."
+
+ skonester_activity_cheat_toast_host_title: "Triche d’activité · Tentative d’organisation"
+
+ skonester_activity_cheat_toast_host_desc: "Ressources injectées et spawn_activity exécuté à la capitale/au lieu ; vérifiez les activités ou les notifications."
+
+ skonester_activity_cheat_toast_skip_phase_title: "Phase d’activité en cours passée"
+
+
+ skonester_activity_cheat_toast_complete_title: "Activité terminée"
+
+ skonester_activity_cheat_toast_cancel_title: "Activité invalidée"
+
+ skonester_activity_cheat_toast_Fast_phase_title: ""
+

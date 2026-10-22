@@ -1,0 +1,29 @@
+﻿l_french:
+
+ skonester_cheat_menu_ai_ai_interaction: "Intimité"
+
+ skonester_cheat_menu_ai_ai_interaction_desc: "Passez une soirée privée et tranquille avec [recipient.GetShortUIName]. Vous pouvez vous donner pleinement à l’instant, ou choisir de vous retenir avant d’aller trop loin."
+
+ skonester_cheat_menu.0010.t: "Intimité — La nuit vous attend"
+
+ skonester_cheat_menu.0010.desc: "Les serviteurs sont partis, vous laissant seul(e) avec [skonester_cheat_menu_target.GetShortUIName]. Des voiles de soie vous coupent du monde extérieur. Son souffle chaud effleure votre peau, la lueur des bougies danse dans son regard. Les guerres et les affaires d’État attendront une autre heure."
+
+ skonester_cheat_menu.0010.desc_lover: "Seul(e) avec votre amant(e) [skonester_cheat_menu_target.GetShortUIName], tout faux-semblant s’efface. Chaque caresse douce porte la passion des rendez-vous passés. Parfums et chair se mêlent tandis que la nuit elle-même vous enveloppe d’une étreinte."
+
+ skonester_cheat_menu.0010.desc_spouse: "Votre conjoint(e) [skonester_cheat_menu_target.GetShortUIName] vous dévêt avec une grâce familière, le regard empli d’un désir de longue date. Ce lit conjugal lui revient de droit, et ce soir cette personne compte vous rappeler le lien qui vous unit."
+
+ skonester_cheat_menu.0010.desc_concubine: "Votre concubin(e) [skonester_cheat_menu_target.GetShortUIName] baisse les yeux en dénouant ses vêtements. Cette personne connaît bien sa place — et sait exactement comment vous retenir ici, par de doux murmures et de légères caresses."
+
+ skonester_cheat_menu.0010.desc_camp: "Les vents hurlent sur le camp au-delà de la tente, mais la chaleur et un doux parfum emplissent l’espace intérieur. Vous reposez auprès de [skonester_cheat_menu_target.GetShortUIName] sur un simple lit de campagne ; l’armure garde encore la chaleur du jour, tandis que votre peau brûle plus fort encore. Un instant volé au milieu de la guerre, bien plus doux que n’importe quel triomphe sur le champ de bataille."
+
+ skonester_cheat_menu.0010.continue: "Céder au désir…"
+
+ skonester_cheat_menu.0010.cancel: "Se détourner"
+
+ skonester_cheat_menu.0012.t: "Intimité — Après l’étreinte"
+
+ skonester_cheat_menu.0012.desc: "Tous deux las, vous restez allongés ensemble. Les joues de [skonester_cheat_menu_target.GetShortUIName] rayonnent de chaleur, ses doigts reposent légèrement sur votre poignet. Les appels lointains des gardes de nuit passent au-delà des rideaux, mais la chaleur persistante entre vous ne faiblit pas."
+
+ skonester_cheat_menu.0012.ok: "L’aider à se vêtir"
+
+

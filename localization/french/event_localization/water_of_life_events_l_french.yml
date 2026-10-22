@@ -1,0 +1,51 @@
+﻿l_french:
+ water_of_life_header:0 "Le journal du centurion :"
+ water_of_life.1001.t:0 "$water_of_life_header$ L’homme qui ne mourut pas."
+ water_of_life.1001.desc:0 "Le rouleau n’était pas caché dans une bibliothèque, mais dans la poignée d’un gladius rouillé découvert en Judée. Le latin est rude, militaire — le rapport d’un tribun nommé Clavius. Il parle d’un corps disparu d’un tombeau scellé, d’une femme aux cheveux roux qui savait la vérité, et d’une coupe qui arrête l’horloge de la vie.\n\nLa dernière entrée n’est pas une date, mais un serment : #'Je ne peux tuer ce qui ne peut mourir. Je ne puis que le servir. Je m’en vais dans le désert monter la garde.'#!\n\nLa légende dit qu’il y est encore. Un soldat qui attend d’être relevé. Si je le trouve, je trouve le Graal."
+ water_of_life.1001.a:0 "Je préparerai mon corps à suivre la piste du tribun."
+ water_of_life.1001.b:0 "J’étudierai son journal avant de partir."
+
+ water_of_life_header_1:0 "La poursuite :"
+ water_of_life.1002.t:1 "$water_of_life_header_1$ L’ombre de l’aigle."
+ water_of_life.1002.desc:0 "J’abandonne ma couronne. Pour trouver Clavius, je dois suivre le chemin de l’exil. J’échange mon velours contre de la laine, mon sceptre contre un bâton de marche. Les indices de son journal mènent loin des cités des hommes, vers les lieux silencieux où la portée de l’Empire s’est effritée. Je traque un fantôme qui a eu des siècles pour effacer ses traces."
+ water_of_life.1002.a:0 "La route est longue, mais ma volonté est de fer."
+ water_of_life.1002.b:0 "Un dernier regard sur mon royaume, puis je disparais."
+
+ water_of_life_header_2:0 "Le désert :"
+ water_of_life.1003.t:1 "$water_of_life_header_2$ Les sept puissances."
+ water_of_life.1003.desc:0 "Le désert dépouille [ROOT.Char.GetWomanMan] jusqu’à l’os. Comme le prévient l’*Évangile de Marie*, l’âme est assaillie par les Sept Puissances de la Colère : les Ténèbres, le Désir et l’Ignorance. Seul près du feu, je les combats. Je ne crains pas les bandits ; je crains le silence où Clavius a trouvé son Dieu. Mon esprit — le *Nous* — doit devenir immobile comme un tombeau avant que la pierre ne soit roulée."
+ water_of_life.1003.a:0 "Je vaincs l’envie de rebrousser chemin."
+
+ water_of_life_header_3:0 "L’épreuve d’endurance :"
+ water_of_life.1004.t:1 "$water_of_life_header_3$ La ration du soldat."
+ water_of_life.1004.desc:0 "Les vivres s’amenuisent. Le paysage n’est que roche et épines impitoyables. Je comprends maintenant pourquoi il a choisi cet endroit : c’est une forteresse faite de nature. La faim me ronge le ventre. Dois-je chasser en seigneur, ou mendier en pèlerin ? Le tribun respecterait la discipline, mais la Magdaléenne enseignait l’humilité."
+ water_of_life.1004.a:0 "Je chasserai. La discipline nourrit le corps."
+ water_of_life.1004.b:0 "Je chercherai les habitants. L’humilité nourrit l’âme."
+
+ water_of_life_header_4:0 "La chasse :"
+ water_of_life.1005.t:1 "$water_of_life_header_4$ Les signes de la légion."
+ water_of_life.1005.desc:0 "Je trouve un repère — un cairn de pierres empilées avec une précision militaire. Puis un autre. Je ne vagabonde pas ; je suis guidé. Ou peut-être... mené comme un troupeau. Près d’un ruisseau, j’aperçois un cerf. Il ne s’enfuit pas. Il m’observe, sans crainte, comme sous la protection d’un puissant gardien. Je retiens mon tir. Tuer ici me semblerait violer une trêve.\n\nAu pied du cairn, je trouve un fragment usé de l’Évangile secret. Je l’enveloppe avec soin : un témoignage à rapporter chez moi, et le rappel de la retenue qu’exige ce lieu."
+ water_of_life.1005.a:0 "Je baisse mon arc. Je suis ici un invité."
+
+ water_of_life_header_5:0 "Le village :"
+ water_of_life.1006.t:1 "$water_of_life_header_5$ Le vieil homme des collines."
+ water_of_life.1006.desc:0 "Un petit hameau s’accroche au flanc de la montagne. Quand je m’enquiers du Romain, les villageois font le signe du poisson. Un ancien murmure : 'L’Étranger ? Il est ici depuis l’époque du grand-père de mon grand-père. Il porte le fer de l’ancien monde. Il nous protège des loups et des bandits, mais ne parle jamais. Il attend quelqu’un.' L’ancien me regarde. 'Peut-être vous.'\n\nIl m’offre des provisions pour la route. En échange de mon paiement et de la promesse d’un passage sûr pour les marchands de son village, ils porteront leur commerce sur mes terres."
+ water_of_life.1006.a:0 "Je paierai les provisions et accueillerai vos marchands."
+
+ water_of_life_header_6:0 "L’approche :"
+ water_of_life.1007.t:1 "$water_of_life_header_6$ La Dixième Légion."
+ water_of_life.1007.desc:0 "Le sentier se resserre en un chemin de chèvres menant à l’entrée d’une grotte fortifiée de pierres antiques. Je sens des yeux sur moi — le poids d’un regard qui a vu des empires s’élever et tomber en poussière. Je m’arrête et lève mes mains vides. 'Tribun !' m’écriai-je. 'Je cherche le Vivant !' \n\nLe silence répond. Puis, le grincement de la pierre."
+ water_of_life.1007.a:0 "Entrer dans la gueule du lion."
+
+ water_of_life_header_8:0 "Le tribun :"
+ water_of_life.1008.t:1 "$water_of_life_header_8$ Clavius Aquila."
+ water_of_life.1008.desc:0 "Il est assis près d’un feu modeste, nettoyant un gladius qui brille encore comme neuf. Il porte la tunique d’un tribun romain, bien que le cuir soit poli par les éons. Clavius lève les yeux, lourds de mille ans de souvenirs.\n\n'J’ai vu deux choses inconciliables,' dit-il d’une voix rauque. 'Un homme mort sans conteste, et ce même homme de nouveau vivant. J’ai promis à Marie de tenir la garde jusqu’à l’arrivée d’un héritier digne.'\n\nIl plonge son regard dans les flammes. 'J’ai conseillé bien des rois. J’ai combattu aux côtés du roi lépreux, Baudouin, lorsqu’il ordonna : #P *'Ne maltraitez ni le Juif ni le Musulman. Dans ce royaume, il n’y a pas de race, seulement des sujets de Dieu.'*#! Vous devez maintenant porter cette justice.'\n\nIl tend une simple coupe d’argile, incrustée de joyaux au fil des siècles. 'L’*Évangile* dit : *La matière a engendré une passion sans égale.* Buvez, et la passion meurt. Seul le devoir demeure. Êtes-vous prêt à prendre ma relève, [ROOT.GetCharacter.GetTitledFirstNameNoTooltip] ?'\n\nÀ côté de la coupe se trouve un rouleau de noms : les maisonnées qui ont fourni des soldats à sa garde. Clavius le place entre mes mains. 'Elles répondront désormais à votre appel. Restez-leur fidèle.'\n\nLe Graal lui-même me revient, témoin durable du serment que je m’apprête à prêter."
+ water_of_life.1008.a:0 "'Je vous relève, tribun. Allez vous reposer.'"
+
+ water_of_life_header_9:0 "Le retour :"
+ water_of_life.1009.t:1 "$water_of_life_header_9$ La nouvelle sentinelle."
+ water_of_life.1009.desc:0 "Clavius s’est changé en poussière à l’instant où la coupe a touché mes lèvres — enfin en paix. Je retourne dans mon royaume en portant son fardeau et Son sang. Mes sujets m’acclament, mais ils ne comprennent pas. Ils voient un dirigeant ; je vois la nature éphémère de la chair. \n\n[one_loyal_subject_character.GetFirstNameNoTooltip] : [ROOT.Char.GetLadyLord], vous voilà de retour ! \n\n[second_loyal_subject_character.GetFirstNameNoTooltip] : Nous craignions que vous soyez perdu dans la nature ! \n\n[third_loyal_subject_character.GetFirstNameNoTooltip] : Vous avez l’air... terriblement calme. \n\n[fourth_loyal_subject_character.GetFirstNameNoTooltip] : Bienvenue chez vous, Gardien."
+ water_of_life.1009.a:0 "Tenez-vous à mes côtés. Notre veille commence."
+
+ water_of_life.1003.martial_preparation:0 "\n\nLa discipline que j’ai pratiquée avant mon départ affermit mon pas. Je lis le sol comme un soldat, ménageant mes forces pour l’ascension qui m’attend."
+ water_of_life.1003.scholarly_preparation:0 "\n\nLes heures passées à étudier le journal de Clavius portent leurs fruits. Ses mots donnent forme au silence, et je commence à comprendre pourquoi il a choisi ce désert."
